@@ -1,0 +1,4 @@
+ccxt
+python-dotenv
+fastapi
+uvicorn[standard]
